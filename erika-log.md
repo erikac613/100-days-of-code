@@ -31,3 +31,12 @@
 **Thoughts:** Today, I applied some of the things I've been learning about using Bootstrap to the work I did on my FCC portfolio page weeks ago. I keep having these little "a-ha!" moments when I realize I now know a better way to do something I was struggling with previously. Those little signs of progress are so helpful and show me I'm learning bit by bit. Most of today as spent reading up on how to use JQuery to access APIs. This feels like a project where I'll have to steel myself and push forward a little at a time.
 
 **Link to work:** https://codepen.io/erikac613/pen/wPmEro Warning: this looks terrible right now. Still several kinks to work out.
+
+### Day 5: November 23, 2017
+
+**Today's Progress**: Worked on getting API data to display in weather app
+
+**Thoughts:** Getting the API data to display properly in my weather app is one of the hardest things I've done with programming so far. I am taking advantage of all the tutorials and resources on the subject that I can find. This is a slow go, but each time I get something to work, even if it's still not quite right, it is so exciting and makes me want to keep working.
+
+**Link to work:** https://codepen.io/erikac613/pen/wPmEro Warning: this looks terrible right now. Still several kinks to work out.
+
