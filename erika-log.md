@@ -47,3 +47,19 @@
 **Thoughts:** I read a little bit about some of the steps I need to take to get my weather app working, but I was so tired today when I sat down to code. I ended up spending my time working on some CodeWars kata so I could feel like I was actually accomplishing something. It felt good to get a little bit done. I think my time will be better spent working on some JQuery and AJAX related tutorials the next few days.
 
 **Link to work:** https://www.codewars.com/users/ECC
+
+### Day 7: November 27, 2017
+
+**Today's Progress**: Started going back through some Javascript basics on Code School
+
+**Thoughts:** I missed Saturday and Sunday due to holiday travel, but I didn't let it bog me down too much. I was getting overwhelmed with the weather app challenge and felt that while I was Googling ways to complete it, I wasn't really learning what to do or why I was doing it as much as I was just throwing out code and hoping for the best. I also felt like the progress I made in fundamentals and algorithms was sliding out of my brain. I tried Code School last weekend for some jQuery practice and really like the format, and decided to revisit some Javascript basics to hammer in the fundamentals and take a break from the weather app for a while.
+
+**Link to work:** https://www.codeschool.com/users/erikac613
+
+### Day 8: November 28, 2017
+
+**Today's Progress**: Worked on loops and if/else statements on Code School
+
+**Thoughts:** I continued to work through some Code School exercises on Javascript basics. I was exhausted after work today, and it was pretty much all I could handle to review loops and if/else statements. I have gotten better at attacking these types of problems since I started, which feels good.
+
+**Link to work:** https://www.codeschool.com/users/erikac613
